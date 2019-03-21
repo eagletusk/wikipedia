@@ -1,12 +1,12 @@
-# _Week In Review Project_
+# _Creating a Wikipedia page with Bootstrap_
 
-#### _Describes our first week at Epicodus_
+#### _Creating a Wiki Page_
 
 #### By _Paul and Kerri_
 
 ## Description
 
-_Our first week at Epicodus, here we use Bootstrap to decorate our html file_
+_Use Bootstrap to Create a Wikipedia Page_
 
 
 

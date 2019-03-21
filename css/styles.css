@@ -1,33 +1,13 @@
-
-
-#main-head {
-  font-size: 300px;
+.sidebar {
+  font-size: inherit;
+position: absolute;
+top: 0;
+width: 10em;
+left: 0;
 }
 
-/* h1 {
-  font-weight: bold;
-  color: blue;
-} */
-
-/* @media screen and (max-width: 768px) {
-  body {
-    background-color: black;
-    color: white;
-    }
+.main-content {
+  position: absolute;
+  top: 0;
+  left: 11em;
 }
-
-@media screen and (max-width: 480px) {
-  body {
-    background-color: teal;
-  }
-#main-head {
-    font-size: 300;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  body {
-    background-color: pink;
-    color: white;
-  }
-} */
